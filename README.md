@@ -1,4 +1,13 @@
 
+#####
+upload csv file to jupyter -instruction for upload your CSV file to jupyter with correct UTF-8 format
+#####
+
+
+
+
+
+
 ###After install anaconda and if he not found icons anaconda-navigator we can do:
 !!!!
 Change to your directory
